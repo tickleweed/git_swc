@@ -1,4 +1,4 @@
-# Author: Amanda K. Luther
+# Author: Amanda K. Luther 2017 09 14
 
 #### load packages #### 
 # four hash can help you navigate through a long script
