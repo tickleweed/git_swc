@@ -1,3 +1,5 @@
+# Author: Amanda K. Luther
+
 #### load packages #### 
 # four hash can help you navigate through a long script
 1 + 100
