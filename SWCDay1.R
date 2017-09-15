@@ -1,4 +1,6 @@
-# Author: Amanda K. Luther 2017 09 14
+# Title: Software Carpentry Workshop notes
+# Author: Amanda K. Luther 
+# Date 2017 09 14
 
 #### load packages #### 
 # four hash can help you navigate through a long script
